@@ -9,14 +9,19 @@
 ## 🙋 About Me
 
 - 🔭 I'm currently working on my school projects
-- 🌱 I'm opened to any opportunity to grow as a dev
+- 🤓 I'm opened to any opportunity to grow as a dev
+
 ---
 
 ## 😎 What tools I'm experienced with
 
+***404 Not found***
+
 ---
 
 ## 😊 What tools I consider as Familliar
+
+***404 Not found***
 
 ---
 
@@ -78,6 +83,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/-KionX-181717?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </div><a href="https://discord.com/users/516302007020290048"><img src="https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&idleMessage=AFK%F0%9F%A4%93%E2%98%9D%EF%B8%8F" /></a>
+
 ---
 
 <p align="center">
