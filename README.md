@@ -79,6 +79,8 @@
   </a>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/516302007020290048?idleMessage=Today%2C%20I%20don't%20feel%20like%20doin'%20anything%2C%20I%20just%20wanna%20lay%20in%20my%20bed&theme=dark&borderRadius=30px&animatedDecoration=true)](https://discord.com/users/516302007020290048)
+
 ---
 
 <p align="center">
