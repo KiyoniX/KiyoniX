@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm KioniX 👋</h1>
+<h1 align="center">Hi there, I'm KionX 👋</h1>
 
 <p align="center">
   <em>A first year student in IT at <a href="https://maps.app.goo.gl/wQCbRk3Kpsc3anCt5">Hesias</a> for now</em>
