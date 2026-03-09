@@ -9,7 +9,7 @@
 ## 🙋 About Me
 
 - 🔭 I'm currently working on my school projects
-- 🤓 I'm opened to *any* opportunity to grow as a dev
+- 🙂‍↕️ I'm opened to *any* opportunity to grow as a dev
 - **🧭 Actually in search of an internship and/or a work-study program**
 
 ---
