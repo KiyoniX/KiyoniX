@@ -1,81 +1,53 @@
-<h1 align="center">Hi there, I'm KionX 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220c52,100:7b2ff7&height=140&section=header" alt="" />
 
 <p align="center">
-  <em>A first year student in IT at <a href="https://maps.app.goo.gl/wQCbRk3Kpsc3anCt5">Hesias</a> for now</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3500&pause=800&color=9B5DE5&center=true&vCenter=true&width=600&lines=Hey%2C+it%27s+KionX;Second-year+IT+student+%40+Hesias" alt="Hey, it's KionX — second-year IT student at Hesias" />
+  </a>
 </p>
-
----
-
-## 🙋 About Me
-
-- 🔭 I'm currently working on my school projects
-- 🧐 I'm opened to *any* opportunity to grow as a dev
-- **🧭 Actually in search of an internship and/or a work-study program**
-
----
-
-## 😎 What tools I'm **experienced** with
-
-***404 Not found***
-
----
-
-## 😊 What tools I consider as **Familliar**
-
-***404 Not found***
-
----
-
-## 🤔 What tools I'm **learning** how to use
-
-### 💿 Languages
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-</div>
-
-### 🛠️ Tools and environments
-<div>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat-square&logo=powershell-white&logoColor=fff" alt="Powershell" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-### 🖥️ OS & Administration
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" alt="Debian" />
-</div>
-
-### 📊 DB
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL" />
-</div>
-
-### 🎮 Game engines
-<div>
-  <img src="https://img.shields.io/badge/Godot-%23478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
-</div>
-
----
-
-## 📫 Let's get in touch!
-
-<div>
-  <a href="https://github.com/KiyoniX">
-    <img alt="GitHub" src="https://img.shields.io/badge/-KiyoniX-181717?style=flat-square&logo=github&logoColor=white" />
-</div><a href="https://discord.com/users/516302007020290048"><img src="https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&idleMessage=AFK%F0%9F%A4%93%E2%98%9D%EF%B8%8F" /></a><br>
-(I don't tend to add strangers so send me a message with the friend request please🙏)
-    
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KiyoniX&color=blue&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Linktree-4506a7?style=flat&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Fkionx" alt="Badge">
+  Second-year IT student at <a href="https://maps.app.goo.gl/wQCbRk3Kpsc3anCt5">Hesias</a>, France.<br />
+  Most of what I build right now comes from school projects, and I'm open to any opportunity that helps me grow as a dev.
 </p>
 
----
+> [!IMPORTANT]
+> **Looking for an internship and/or a work-study program from September 2027 through August 2028.**
+> If you think I could be a fit for your team, [get in touch](#connect-with-me).
+
+### Experienced with
+
+<a href="https://claude.com/claude-code">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" height="40" />
+</a>
+
+### Familiar with
+
+[![Java, HTML, CSS, Git, GitHub, VS Code, Linux, Godot](https://skillicons.dev/icons?i=java,html,css,git,github,vscode,linux,godot)](https://skillicons.dev)
+
+…and object-oriented programming.
+
+### Learning
+
+[![PHP, Symfony, Python, C, JavaScript, MySQL, PowerShell, Debian, Windows Server](https://skillicons.dev/icons?i=php,symfony,py,c,js,mysql,powershell,debian,windows)](https://skillicons.dev)
+
+…and Luau.
+
+### Next up
+
+[![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+
+### Connect with me
+
+<a href="https://linktr.ee/kionx">
+  <img src="https://img.shields.io/badge/Linktree-4506a7?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
+<a href="https://discord.com/users/516302007020290048">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<a href="https://discord.com/users/516302007020290048"><img src="https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&idleMessage=AFK%F0%9F%A4%93%E2%98%9D%EF%B8%8F" alt="Discord presence" /></a>
+
+I don't tend to add strangers on Discord, so please send a message along with the friend request 🙏
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220c52,100:7b2ff7&height=120&section=footer" alt="" />
