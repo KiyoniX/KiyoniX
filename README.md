@@ -8,7 +8,7 @@
 
 <p align="center">
   Second-year IT student at <a href="https://maps.app.goo.gl/wQCbRk3Kpsc3anCt5">Hesias</a>, France.<br />
-  Most of what I build right now comes from school projects, and I'm open to any opportunity that helps me grow as a dev.
+  Most of what I build right now comes from school projects or vibe coding, so I'll only make a tool public when I think it's worth sharing.<br />
 </p>
 
 > [!IMPORTANT]
