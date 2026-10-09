@@ -37,6 +37,20 @@
 
 [![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
+…and Assembly and UML.
+
+### This year at school
+
+| | |
+|:--|:--|
+| **Programming** | Java fundamentals · PHP · Assembly · Algorithms |
+| **Theory & modelling** | Logic · Automata and regular expressions · Cryptography · UML / Merise |
+| **Systems** | Operating systems · Linux server configuration · Windows Server |
+| **Networks** | Cisco CCNA 2 (Switching, Routing, and Wireless Essentials) · Protocols and services |
+| **Data** | Relational databases (RDBMS) |
+| **DevOps & quality** | Ansible · CI/CD · QA testing |
+| **Business & law** | IT security law (LPM / RGS / GDPR) · Company law · Finance and strategy · Marketing · Negotiation |
+
 ### Connect with me
 
 <a href="https://linktr.ee/kionx">
