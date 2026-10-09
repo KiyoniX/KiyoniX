@@ -31,9 +31,7 @@
 
 [![PHP, Symfony, Python, C, JavaScript, Node.js, Vue.js, MySQL, PowerShell, Debian, Ubuntu, Windows Server, Docker, GitLab CI/CD](https://skillicons.dev/icons?i=php,symfony,py,c,js,nodejs,vue,mysql,powershell,debian,ubuntu,windows,docker,gitlab&perline=7)](https://skillicons.dev)
 
-…and Luau.
-
-I also run a Linux production server on Ubuntu, with self-hosted Gitea and SonarQube in Docker and CI/CD on GitLab.
+…and Luau, Gitea and SonarQube.
 
 ### Next up
 
