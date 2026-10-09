@@ -39,9 +39,9 @@
 
 …and Assembly and UML.
 
-### This year at school
+### Learning This Year
 
-| | |
+| Area | Subjects |
 |:--|:--|
 | **Programming** | Java fundamentals · PHP · Assembly · Algorithms |
 | **Theory & modelling** | Logic · Automata and regular expressions · Cryptography · UML / Merise |
